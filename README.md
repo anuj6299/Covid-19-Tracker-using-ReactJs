@@ -1,3 +1,5 @@
+You can visit the live project [here](https://covidtrackerbyanuj.herokuapp.com/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
